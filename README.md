@@ -2,4 +2,4 @@
 
 Etch a sketch game created with HTML, CSS and JS.
 
-[Live Demo]() :point_left:
+[Live Demo](https://stardust-rahul.github.io/EtchASketch/) :point_left:
